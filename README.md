@@ -1,1 +1,1 @@
-# CST-227
+All assignments and milestone for GCU CST-227. 
